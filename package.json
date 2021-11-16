@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.432.0",
+    "aws-sdk": "^2.814.0",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "multer": "^1.4.1",
